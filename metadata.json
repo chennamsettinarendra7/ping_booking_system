@@ -1,0 +1,6 @@
+{
+  "name": "Department Seminar Hall & Lab Slot Booking System",
+  "description": "A college reservation portal for faculty and class representatives to reserve seminar halls, computer labs, smart classrooms, and AV projector facilities with real-time conflict prevention.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
